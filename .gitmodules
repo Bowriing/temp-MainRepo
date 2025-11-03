@@ -1,0 +1,3 @@
+[submodule "temp-SubmoduleRepo"]
+	path = temp-SubmoduleRepo
+	url = https://github.com/Bowriing/temp-SubmoduleRepo
